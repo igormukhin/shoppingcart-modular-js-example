@@ -1,0 +1,14 @@
+# Compiled
+*.class
+*.jar
+*.war
+
+# Maven
+/target
+
+# Eclipse
+.*
+
+# Git
+!.gitignore
+!.gitkeep
